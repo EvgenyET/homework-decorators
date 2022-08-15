@@ -1,0 +1,10 @@
+Дата и время: 2022-08-16 02:27:29.790142
+Имя функции: requests_get
+Аргументы до вызова: ((['https://www.superheroapi.com/api.php/2619421814940190/search/Hulk', 'https://www.superheroapi.com/api.php/2619421814940190/search/Thanos', 'https://www.superheroapi.com/api.php/2619421814940190/search/Captain%America'],), {})
+Возвращаемое значение: <generator object requests_get.<locals>.<genexpr> at 0x0000020EA70653F0>
+
+Дата и время: 2022-08-16 02:30:10.329808
+Имя функции: requests_get
+Аргументы до вызова: ((['https://www.superheroapi.com/api.php/2619421814940190/search/Hulk', 'https://www.superheroapi.com/api.php/2619421814940190/search/Thanos', 'https://www.superheroapi.com/api.php/2619421814940190/search/Captain%America'],), {})
+Возвращаемое значение: <generator object requests_get.<locals>.<genexpr> at 0x000001BDB8A953F0>
+
